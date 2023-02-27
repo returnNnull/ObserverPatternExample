@@ -1,0 +1,15 @@
+/Users/administrator/RiderProjects/ObserverPatternExample/ObserverPatternExample/bin/Debug/net7.0/ObserverPatternExample
+/Users/administrator/RiderProjects/ObserverPatternExample/ObserverPatternExample/bin/Debug/net7.0/ObserverPatternExample.deps.json
+/Users/administrator/RiderProjects/ObserverPatternExample/ObserverPatternExample/bin/Debug/net7.0/ObserverPatternExample.runtimeconfig.json
+/Users/administrator/RiderProjects/ObserverPatternExample/ObserverPatternExample/bin/Debug/net7.0/ObserverPatternExample.dll
+/Users/administrator/RiderProjects/ObserverPatternExample/ObserverPatternExample/bin/Debug/net7.0/ObserverPatternExample.pdb
+/Users/administrator/RiderProjects/ObserverPatternExample/ObserverPatternExample/obj/Debug/net7.0/ObserverPatternExample.csproj.AssemblyReference.cache
+/Users/administrator/RiderProjects/ObserverPatternExample/ObserverPatternExample/obj/Debug/net7.0/ObserverPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/administrator/RiderProjects/ObserverPatternExample/ObserverPatternExample/obj/Debug/net7.0/ObserverPatternExample.AssemblyInfoInputs.cache
+/Users/administrator/RiderProjects/ObserverPatternExample/ObserverPatternExample/obj/Debug/net7.0/ObserverPatternExample.AssemblyInfo.cs
+/Users/administrator/RiderProjects/ObserverPatternExample/ObserverPatternExample/obj/Debug/net7.0/ObserverPatternExample.csproj.CoreCompileInputs.cache
+/Users/administrator/RiderProjects/ObserverPatternExample/ObserverPatternExample/obj/Debug/net7.0/ObserverPatternExample.dll
+/Users/administrator/RiderProjects/ObserverPatternExample/ObserverPatternExample/obj/Debug/net7.0/refint/ObserverPatternExample.dll
+/Users/administrator/RiderProjects/ObserverPatternExample/ObserverPatternExample/obj/Debug/net7.0/ObserverPatternExample.pdb
+/Users/administrator/RiderProjects/ObserverPatternExample/ObserverPatternExample/obj/Debug/net7.0/ObserverPatternExample.genruntimeconfig.cache
+/Users/administrator/RiderProjects/ObserverPatternExample/ObserverPatternExample/obj/Debug/net7.0/ref/ObserverPatternExample.dll
